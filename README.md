@@ -43,3 +43,18 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
 ```
+## 🔧 Run the Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+## 💻 Run the Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
